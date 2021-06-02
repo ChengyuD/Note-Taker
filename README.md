@@ -1,5 +1,4 @@
 # Note-Taker
-![License: ${(data.license) ? data.license : 'None'}](https://img.shields.io/badge/License-${(data.license) ? data.license : 'None'}-blue)
 
 
 ## Table Content
@@ -37,6 +36,15 @@ WHEN I click on the Write icon in the navigation at the top of the page
 THEN I am presented with empty fields to enter a new note title and the note’s text in the right-hand column
 ```
 
+
+## Languages and Technologies
+* express.js
+* uuid
+* heroku
+
+
+## License
+MIT
 
 ## Screenshot
 
