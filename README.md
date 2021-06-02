@@ -53,4 +53,4 @@ MIT
 
 
 ## Walkthrough Demo
-![Note Taker Demo](note-taker-demo.gif)
+![Note Taker Demo](https://github.com/ChengyuD/Note-Taker/blob/main/pubideos/note-taker-demo.gif)
