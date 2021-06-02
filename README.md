@@ -38,17 +38,8 @@ THEN I am presented with empty fields to enter a new note title and the note’s
 ```
 
 
-## License
-MIT
-
-
 ## Screenshot
 
 
 
 ## Walkthrough Demo
-
-
-
-## Contact Me
-Please contact me via dcheryth@gmail.com for questions.
