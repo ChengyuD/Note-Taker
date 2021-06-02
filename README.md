@@ -53,4 +53,4 @@ MIT
 
 
 ## Walkthrough Demo
-![Note Taker Demo](note-taker-demo.gif) / ![](note-taker-demo.gif)
+![Note Taker Demo](public/assets/images-videos/note-taker-demo.gif)
