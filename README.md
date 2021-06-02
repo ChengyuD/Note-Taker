@@ -46,7 +46,9 @@ THEN I am presented with empty fields to enter a new note title and the note’s
 ## License
 MIT
 
+
 ## Screenshot
+![image](https://user-images.githubusercontent.com/80147201/120431854-e9e55e80-c32d-11eb-800e-7c50ed34901a.png)
 
 
 
